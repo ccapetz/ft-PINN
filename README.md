@@ -6,4 +6,4 @@ Physics-informed neural networks (PINNs) have seen increased utility due to thei
 
 # Functionality
 
-Move all contents from FT-PINNs, STD-PINNs, and MISC into the main folder for code functinoality.
+Move all contents of FT-PINNs, STD-PINNs, and MISC into the main folder for code functionality.
